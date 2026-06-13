@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+streamlit
+scikit-learn
+pandas
+numpy
+joblib
+newspaper3k
+beautifulsoup4
+lxml
+requests
